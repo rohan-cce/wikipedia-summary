@@ -1,7 +1,7 @@
 from tkinter import *
 #Tkinter provides a fast and easy way to create GUI applications
 
-import wikipedia
+import wikipedia        #pip install wikipedia
 #Wikipedia is a Python library that makes it easy to access and parse data from Wikipedia
 
 def on_click():
